@@ -1,5 +1,5 @@
 I have no real idea how github works
-i just hope, that i can work at my projects at school, not worrying about an usb-stick
+i just hope, that i can work at my projects when im not home, not worrying about an usb-stick
 
 My discord is: unkreativgg
 
