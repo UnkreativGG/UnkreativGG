@@ -1,7 +1,5 @@
 Welcome to the worst code on the platform!
 
-I have no real idea how github works
-
 My discord: unkreativgg
 
 <!---
