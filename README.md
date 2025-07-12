@@ -1,8 +1,5 @@
 Welcome to the worst code on the platform!
 
-My discord: unkreativgg
+I have some knowledge of C#, C++ and a little Java, C and python.
 
-<!---
-UnkreativGG/UnkreativGG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My discord: unkreativgg
